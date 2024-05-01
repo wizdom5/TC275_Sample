@@ -50,3 +50,20 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+
+########################################
+# Ignore Path
+.metadata/
+.vscode/
+Debug/
+
+
+# C Ignore List File
+*.o
+*.d
+*.obj
+*.elf
+*.map
+*.mdf
+*.hex
+*.vscode
